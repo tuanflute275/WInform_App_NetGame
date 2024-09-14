@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="SQL">
+  <DataContextMoniker Name="/SQLDataContext" />
+  <nestedChildShapes>
+    <classShape Id="8ed7197a-e979-4f4f-adc5-c1e93cc9f3d8" absoluteBounds="0.75, 3.875, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/SQLDataContext/Account" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c411418e-061f-41ff-8345-a1c0c60c3c1e" absoluteBounds="0.765, 4.335, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4f2b9a03-fcbf-46be-8e9a-c225a3c6b89a" absoluteBounds="3.5, 0.875, 2, 1.9631982421875">
+      <DataClassMoniker Name="/SQLDataContext/UsageLog" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2b6aeab7-77ed-47ae-a851-fad16509718a" absoluteBounds="3.515, 1.335, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ccb7208e-a7e8-4baf-9895-e16e0b7bddaa" absoluteBounds="0.75, 1.25, 2, 1.3862939453125">
+      <DataClassMoniker Name="/SQLDataContext/Computer" />
+      <nestedChildShapes>
+        <elementListCompartment Id="49ba7d14-16ef-4d64-96f0-cffbc3bbd5dc" absoluteBounds="0.765, 1.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f8367896-d824-4369-9f4f-e07b3d8da9ba" absoluteBounds="3.5, 4.25, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/SQLDataContext/DrinkSnack" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f9dc7e0e-ceda-4068-89a4-a290191c718b" absoluteBounds="3.515, 4.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5bb9f9a5-cecf-4b1f-af07-df6cac853c3f" absoluteBounds="6.25, 1, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/SQLDataContext/Order" />
+      <nestedChildShapes>
+        <elementListCompartment Id="075a1ff8-fc8f-4e13-9396-47de4b265303" absoluteBounds="6.265, 1.46, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 3.875); (3.125 : 3.5); (3.125 : 1.85659912109375); (3.5 : 1.85659912109375)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SQLDataContext/Account/Account_UsageLog" />
+      <nodes>
+        <classShapeMoniker Id="8ed7197a-e979-4f4f-adc5-c1e93cc9f3d8" />
+        <classShapeMoniker Id="4f2b9a03-fcbf-46be-8e9a-c225a3c6b89a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 2.30894653320312); (3.04166666666667 : 2.30894653320312 : JumpStart); (3.20833333333333 : 2.30894653320312 : JumpEnd); (3.5 : 2.30894653320312)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SQLDataContext/Computer/Computer_UsageLog" />
+      <nodes>
+        <classShapeMoniker Id="ccb7208e-a7e8-4baf-9895-e16e0b7bddaa" />
+        <classShapeMoniker Id="4f2b9a03-fcbf-46be-8e9a-c225a3c6b89a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 4.94314697265625); (7.25 : 4.94314697265625); (7.25 : 2.77089680989583)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SQLDataContext/DrinkSnack/DrinkSnack_Order" />
+      <nodes>
+        <classShapeMoniker Id="f8367896-d824-4369-9f4f-e07b3d8da9ba" />
+        <classShapeMoniker Id="5bb9f9a5-cecf-4b1f-af07-df6cac853c3f" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 1.88544840494792); (6.25 : 1.88544840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SQLDataContext/UsageLog/UsageLog_Order" />
+      <nodes>
+        <classShapeMoniker Id="4f2b9a03-fcbf-46be-8e9a-c225a3c6b89a" />
+        <classShapeMoniker Id="5bb9f9a5-cecf-4b1f-af07-df6cac853c3f" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

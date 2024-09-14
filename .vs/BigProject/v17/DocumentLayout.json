@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\Csharp\\winform\\BigProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE3A7A4-520A-4DDF-9D94-A8571CD1015A}|BigProject\\BigProject.csproj|D:\\Code\\Csharp\\winform\\BigProject\\bigproject\\forms\\frmmainadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE3A7A4-520A-4DDF-9D94-A8571CD1015A}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\forms\\frmmainadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE3A7A4-520A-4DDF-9D94-A8571CD1015A}|BigProject\\BigProject.csproj|d:\\code\\csharp\\winform\\bigproject\\bigproject\\forms\\frmmainadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FE3A7A4-520A-4DDF-9D94-A8571CD1015A}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\forms\\frmmainadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE3A7A4-520A-4DDF-9D94-A8571CD1015A}|BigProject\\BigProject.csproj|D:\\Code\\Csharp\\winform\\BigProject\\bigproject\\forms\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FE3A7A4-520A-4DDF-9D94-A8571CD1015A}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\forms\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE3A7A4-520A-4DDF-9D94-A8571CD1015A}|BigProject\\BigProject.csproj|D:\\Code\\Csharp\\winform\\BigProject\\bigproject\\forms\\frmaccountdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FE3A7A4-520A-4DDF-9D94-A8571CD1015A}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\forms\\frmaccountdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE3A7A4-520A-4DDF-9D94-A8571CD1015A}|BigProject\\BigProject.csproj|d:\\code\\csharp\\winform\\bigproject\\bigproject\\forms\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE3A7A4-520A-4DDF-9D94-A8571CD1015A}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\forms\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE3A7A4-520A-4DDF-9D94-A8571CD1015A}|BigProject\\BigProject.csproj|D:\\Code\\Csharp\\winform\\BigProject\\bigproject\\forms\\frmaccountdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE3A7A4-520A-4DDF-9D94-A8571CD1015A}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\forms\\frmaccountdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmMainAdmin.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\Csharp\\winform\\BigProject\\BigProject\\Forms\\FrmMainAdmin.cs",
+              "RelativeDocumentMoniker": "BigProject\\Forms\\FrmMainAdmin.cs",
+              "ToolTip": "D:\\Code\\Csharp\\winform\\BigProject\\BigProject\\Forms\\FrmMainAdmin.cs [Design]",
+              "RelativeToolTip": "BigProject\\Forms\\FrmMainAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T02:26:01.336Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmMainAdmin.cs",
+              "DocumentMoniker": "D:\\Code\\Csharp\\winform\\BigProject\\BigProject\\Forms\\FrmMainAdmin.cs",
+              "RelativeDocumentMoniker": "BigProject\\Forms\\FrmMainAdmin.cs",
+              "ToolTip": "D:\\Code\\Csharp\\winform\\BigProject\\BigProject\\Forms\\FrmMainAdmin.cs",
+              "RelativeToolTip": "BigProject\\Forms\\FrmMainAdmin.cs",
+              "ViewState": "AQIAANkAAAAAAAAAAAAAwOUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T16:34:42.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmCustomer.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\Csharp\\winform\\BigProject\\BigProject\\Forms\\FrmCustomer.cs",
+              "RelativeDocumentMoniker": "BigProject\\Forms\\FrmCustomer.cs",
+              "ToolTip": "D:\\Code\\Csharp\\winform\\BigProject\\BigProject\\Forms\\FrmCustomer.cs [Design]",
+              "RelativeToolTip": "BigProject\\Forms\\FrmCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T14:37:22.402Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmCustomer.cs",
+              "DocumentMoniker": "D:\\Code\\Csharp\\winform\\BigProject\\BigProject\\Forms\\FrmCustomer.cs",
+              "RelativeDocumentMoniker": "BigProject\\Forms\\FrmCustomer.cs",
+              "ToolTip": "D:\\Code\\Csharp\\winform\\BigProject\\BigProject\\Forms\\FrmCustomer.cs",
+              "RelativeToolTip": "BigProject\\Forms\\FrmCustomer.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAgwC4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T10:13:20.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmAccountDetail.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\Csharp\\winform\\BigProject\\BigProject\\Forms\\FrmAccountDetail.cs",
+              "RelativeDocumentMoniker": "BigProject\\Forms\\FrmAccountDetail.cs",
+              "ToolTip": "D:\\Code\\Csharp\\winform\\BigProject\\BigProject\\Forms\\FrmAccountDetail.cs [Design]",
+              "RelativeToolTip": "BigProject\\Forms\\FrmAccountDetail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T14:39:51.68Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmAccountDetail.cs",
+              "DocumentMoniker": "D:\\Code\\Csharp\\winform\\BigProject\\BigProject\\Forms\\FrmAccountDetail.cs",
+              "RelativeDocumentMoniker": "BigProject\\Forms\\FrmAccountDetail.cs",
+              "ToolTip": "D:\\Code\\Csharp\\winform\\BigProject\\BigProject\\Forms\\FrmAccountDetail.cs",
+              "RelativeToolTip": "BigProject\\Forms\\FrmAccountDetail.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T14:39:57.099Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+D:\Code\Csharp\winform\BigProject\BigProject\bin\Debug\BigProject.exe.config
+D:\Code\Csharp\winform\BigProject\BigProject\bin\Debug\BigProject.exe
+D:\Code\Csharp\winform\BigProject\BigProject\bin\Debug\BigProject.pdb
+D:\Code\Csharp\winform\BigProject\BigProject\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Code\Csharp\winform\BigProject\BigProject\obj\Debug\BigProject.csproj.AssemblyReference.cache
+D:\Code\Csharp\winform\BigProject\BigProject\obj\Debug\BigProject.Forms.FrmChangePass.resources
+D:\Code\Csharp\winform\BigProject\BigProject\obj\Debug\BigProject.Forms.FrmCustomer.resources
+D:\Code\Csharp\winform\BigProject\BigProject\obj\Debug\BigProject.FrmLogin.resources
+D:\Code\Csharp\winform\BigProject\BigProject\obj\Debug\BigProject.Forms.FrmMainAdmin.resources
+D:\Code\Csharp\winform\BigProject\BigProject\obj\Debug\BigProject.Properties.Resources.resources
+D:\Code\Csharp\winform\BigProject\BigProject\obj\Debug\BigProject.csproj.GenerateResource.cache
+D:\Code\Csharp\winform\BigProject\BigProject\obj\Debug\BigProject.csproj.CoreCompileInputs.cache
+D:\Code\Csharp\winform\BigProject\BigProject\obj\Debug\BigProject.csproj.Up2Date
+D:\Code\Csharp\winform\BigProject\BigProject\obj\Debug\BigProject.exe
+D:\Code\Csharp\winform\BigProject\BigProject\obj\Debug\BigProject.pdb
+D:\Code\Csharp\winform\BigProject\BigProject\obj\Debug\BigProject.Forms.FrmDeposit.resources
+D:\Code\Csharp\winform\BigProject\BigProject\obj\Debug\BigProject.Forms.FrmAccountDetail.resources
